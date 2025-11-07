@@ -38,3 +38,5 @@ A partir daí, dois meses se passaram. Enquanto eu tentava organizar minha rotin
 
 --------------
 ### O NeoTrax veio pra te mostrar uma nova trilha: a *sua* versão mais organizada.
+
+*Criado por: Alexandre S. de França*
